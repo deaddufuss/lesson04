@@ -1,0 +1,22 @@
+h1{
+    color: rgb(5, 98, 93);
+    font-size: 50px
+}
+
+[href]{
+    color: rgb(143, 30, 30)
+}
+
+[title="love"]{
+    color: rgb(68, 78, 23);
+    font-size: 35px
+    
+}
+
+html {
+    background-color: rgb(235, 235, 235)
+}
+
+[class="select"]{
+    font-size: 26px
+}
